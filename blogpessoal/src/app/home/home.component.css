@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+.parallax {
+    background-image: url(https://i.pinimg.com/originals/d8/97/ce/d897ce208f857da962c505a88c0ef1bd.jpg);
+
+    min-height: 500px;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
